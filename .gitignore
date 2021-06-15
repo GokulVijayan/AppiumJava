@@ -1,0 +1,10 @@
+/bin/
+/test-output/
+/Results/
+/target/classes
+/target/test-classes
+/Tess4j
+/target/
+/.settings
+.classpath
+/META-INF

@@ -1,0 +1,10 @@
+{
+  "menu": "//android.view.ViewGroup[@content-desc='@sideMenu/openDrawer']",
+ "login":"//android.view.ViewGroup[@content-desc='@sideMenu/loginOrRegisterButton']",
+ "field":"//android.widget.EditText[@content-desc='@login/textInput']",
+ "obj1":"//androidx.appcompat.app.ActionBar.Tab[@content-desc='Tasks']",
+ "obj2":"//androidx.appcompat.app.ActionBar.Tab[@content-desc='Equipments']",
+ "pending":"com.precision.landtrack.qc:id/tvPendingCompleted",
+  "completed":"//android.widget.TextView[@text='Completed']",
+  "first":"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.view.ViewGroup/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[1]/android.view.ViewGroup"
+}

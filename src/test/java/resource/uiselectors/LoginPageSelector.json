@@ -1,0 +1,7 @@
+{
+  "continue": "//android.view.ViewGroup[@content-desc='@onBoarding/continueToHomeButton']",
+  "menu":"com.fortysevendeg.android.swipelistview:id/menu_settings",
+  "username":"com.precision.landtrack.qc:id/editItemUsername",
+  "password":"com.precision.landtrack.qc:id/editItemPassword",
+  "login":"com.precision.landtrack.qc:id/buttonSignIn"
+}
